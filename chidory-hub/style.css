@@ -139,7 +139,7 @@ button:hover {
     #naruto {
         position: absolute;
         z-index: 1;
-        top: 4%; /* Posição relativa à altura da viewport */
+        top: 8%; /* Posição relativa à altura da viewport */
         left: 60%; /* Posição relativa à largura da viewport */
         transition: transform 0.3s ease;
     }
@@ -151,7 +151,7 @@ button:hover {
     #frieren {
         position: absolute;
         z-index: 1;
-        top: 7%; /* Mesmo valor para alinhá-los */
+        top: 13%; /* Mesmo valor para alinhá-los */
         left: 10%; /* Ajuste conforme necessário */
         transition: transform 0.3s ease;
     }
